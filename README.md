@@ -1,7 +1,7 @@
 # EthanWang
 Cybersecurity Blog 
 
-# The CIA Triad
+ <h2> The CIA Triad </h2>
 
 The CIA triad is a model used to guide the creation of an information security system within an organization—not to be confused with the CIA (Central Intelligence Agency). In addition to implementing new policies and strategies, it can also be used to assess cyberinfastructure.
 
